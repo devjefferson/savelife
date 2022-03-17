@@ -1,6 +1,5 @@
-<img alt="GoStack" src="https://github.com/devjefferson/savelife/blob/master/src/image/google.png" />
-
 <h1 align="center">
+  <img alt="GoStack" src="https://github.com/devjefferson/savelife/blob/master/assets/icon.png" width=70 heidth=70 />
   <a href="https://reactnative.dev/">
     Save Life
   </a>
