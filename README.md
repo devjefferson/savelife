@@ -18,6 +18,7 @@
     <img src="https://img.shields.io/github/followers/devjefferson?style=social" alt="Follow git @devjefferson" />
   </a>
 </p>
+
 ## Introdução
 
 Este aplicativo foi desenvolvido com **Typescript**, **Expo(Bare WorkFlow)**, **Google-Maps**, **Firebase** e **Login Com o Google**.
