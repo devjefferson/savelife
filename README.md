@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/devjefferson/savelife">
-    <img src="https://img.shields.io/npm/v/react-native?color=brightgreen&label=npm%20package" alt="Current npm package version." />
+    <img src="https://img.shields.io/github/package-json/v/devjefferson/savelife" alt="Current github package version." />
   </a>
   <a href="https://reactnative.dev/docs/contributing">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome!" />
