@@ -18,3 +18,6 @@
   </a>
 </p>
 
+### Backend BaaS
+
+No projeto **Save Life** ultilizo o banco de dados **Firestore**, o motivo da escolha foi a simples questão de produtividade e agilidade.
