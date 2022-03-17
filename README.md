@@ -18,6 +18,10 @@
     <img src="https://img.shields.io/github/followers/devjefferson?style=social" alt="Follow git @devjefferson" />
   </a>
 </p>
+## Introdução
+
+Este aplicativo foi desenvolvido com **Typescript**, **Expo(Bare WorkFlow)**, **Google-Maps**, **Firebase** e **Login Com o Google**.
+
 ### Telas do Aplicativo
 <div align="center">
   <img alt="primeira tela do aplicativo com a pomba e a cores da bandeira da ucrania" src="https://user-images.githubusercontent.com/40128030/158880797-c451d86f-8ecf-478d-96d7-1e10681f060b.jpeg" width=250/>
